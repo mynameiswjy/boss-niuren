@@ -1,6 +1,5 @@
-
 # boss-niuren
-React+Redux+MongoDB+socket全家桶
+	React+Redux+MongoDB+socket全家桶
 # 应用运行说明
 	1. 下载所有依赖: npm install
 	2. 启动mongodb服务
